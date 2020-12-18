@@ -1,0 +1,4 @@
+
+ <ClientOnly>
+  <Table/>
+</ClientOnly>
