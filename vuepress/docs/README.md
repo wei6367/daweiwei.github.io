@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /weixin.jpg
-heroText: 五道杠
+heroText: 魏巍
 tagline: ' '
 actionText: 马上进入 →
 actionLink: /pages/folder1/test1.md
