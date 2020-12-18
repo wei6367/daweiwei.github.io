@@ -21,6 +21,8 @@ features:
 <!-- 1.vuepress文件下执行npm run build -->
 <!-- 2.进入 cd docs/.vurpress/dist -->
 <!-- 3.git init=>git add -A=>git commit -m 'deploy' -->
-<!-- 4.git push -f git@github.com:wangdiangang/wangdiangang.github.io master -->
+<!-- 4.git push -f git@github.com:wei6367/wei6367.github.io master -->
 <!-- 5.cd - -->
 <!-- 或者使用npm run deploy一键部署 -->
+<!-- 不要在master分支上去做开发  也不要吧dev分支合并到master分支上去。 -->
+<!-- 在dev分支开发好以后   进入到vuepress文件下执行npm run deploy自动部署到master分支上 -->
