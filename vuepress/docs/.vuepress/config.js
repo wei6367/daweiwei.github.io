@@ -10,8 +10,8 @@ module.exports = {
             }
         }
     ],
-    title: '魏巍首页', // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
-    description: '魏巍的前端记录', // meta 中的描述文字，用于SEO
+    title: 'vicky', // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
+    description: 'vicky的前端记录', // meta 中的描述文字，用于SEO
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['link', { rel: 'icon', href: '/egg.png' }],  //浏览器的标签栏的网页图标
@@ -34,7 +34,7 @@ module.exports = {
                 ]
             },
             { text: '功能演示', link: '/pages/folder1/test3.md' },
-            { text: 'Github', link: 'https://github.com/wangdiangang' },
+            { text: 'Github', link: 'https://github.com/wei6367' },
         ],
         sidebar: {
             '/pages/folder1/': [
@@ -52,7 +52,7 @@ module.exports = {
                     collapsable: false, // 可选的, 默认值是 true,
                     children: [
                         ['test2.md', '拓展'],
-                        ['sasa.md', '飒飒'],
+                        ['sasa.md', '时间'],
                         ['comment.md', '评论区'],
                         ['me.md', '联系我!!!']
                     ]
